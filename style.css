@@ -238,7 +238,7 @@ h2 { margin-bottom: 14px; font-size: clamp(32px, 4vw, 47px); font-weight: 600; l
   .menu-toggle[aria-expanded="true"] span:first-child { transform: translateY(6px) rotate(45deg); }
   .menu-toggle[aria-expanded="true"] span:nth-child(2) { opacity: 0; }
   .menu-toggle[aria-expanded="true"] span:last-child { transform: translateY(-6px) rotate(-45deg); }
-  .primary-nav { position: fixed; z-index: 101; inset: 70px 0 0; display: flex; flex-direction: column; align-items: stretch; gap: 0; padding: 22px 25px; clip-path: inset(0 0 0 100%); visibility: hidden; background: var(--bg-deep); transition: clip-path .25s ease, visibility 0s linear .25s; }
+  .primary-nav { position: absolute; z-index: 101; top: 70px; right: 0; bottom: auto; left: 0; display: flex; height: calc(100vh - 70px); height: calc(100dvh - 70px); flex-direction: column; align-items: stretch; gap: 0; overflow-y: auto; padding: 22px 25px; clip-path: inset(0 0 0 100%); visibility: hidden; background: var(--bg-deep); transition: clip-path .25s ease, visibility 0s linear .25s; }
   .primary-nav.open { clip-path: inset(0); visibility: visible; transition-delay: 0s; }
   .nav-link { padding: 13px 5px; border-bottom: 1px solid var(--border); font-size: 15px; }
   .nav-link::after { display: none; }
