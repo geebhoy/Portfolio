@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560">
+  <rect width="1000" height="560" fill="#202630"/>
+  <rect x="57" y="36" width="886" height="488" rx="9" fill="#f3eee5"/>
+  <rect x="57" y="36" width="886" height="58" rx="9" fill="#faf7f0"/>
+  <circle cx="99" cy="65" r="16" fill="#7b975c"/><path d="M93 70c2-13 12-15 14-13-1 9-5 14-14 13z" fill="#fff"/>
+  <text x="125" y="71" fill="#37362e" font-family="Arial" font-size="19" font-weight="700">THE GOOD TABLE</text>
+  <text x="660" y="70" fill="#636258" font-family="Arial" font-size="12">Our menu   About   Find us</text>
+  <rect x="57" y="94" width="886" height="274" fill="#e6e2d5"/>
+  <text x="100" y="154" fill="#656b4d" font-family="Arial" font-size="12" letter-spacing="3">MADE FRESH, SHARED WITH JOY</text>
+  <text x="100" y="205" fill="#34382f" font-family="Arial" font-size="37" font-weight="700">Good food brings</text><text x="100" y="249" fill="#34382f" font-family="Arial" font-size="37" font-weight="700">everyone together.</text>
+  <text x="101" y="282" fill="#77786d" font-family="Arial" font-size="13">A taste of something special, made for your table.</text>
+  <rect x="100" y="304" width="124" height="39" rx="3" fill="#738751"/><text x="123" y="329" fill="#fff" font-family="Arial" font-size="12">VIEW OUR MENU</text>
+  <circle cx="745" cy="232" r="111" fill="#d4b68a"/><circle cx="745" cy="232" r="87" fill="#f5f0e2"/><circle cx="745" cy="232" r="66" fill="#71814f"/>
+  <g fill="#d79c5f"><circle cx="719" cy="215" r="17"/><circle cx="762" cy="215" r="16"/><circle cx="741" cy="252" r="18"/><circle cx="782" cy="251" r="14"/></g>
+  <g fill="#b6553d"><circle cx="750" cy="192" r="8"/><circle cx="710" cy="245" r="8"/><circle cx="779" cy="238" r="8"/></g>
+  <text x="100" y="410" fill="#34382f" font-family="Arial" font-size="18" font-weight="700">Something for every occasion</text>
+  <g fill="#fff"><rect x="100" y="428" width="225" height="61" rx="4"/><rect x="342" y="428" width="225" height="61" rx="4"/><rect x="584" y="428" width="225" height="61" rx="4"/></g>
+  <g fill="#656b4d" font-family="Arial" font-size="12"><text x="119" y="464">Seasonal favorites</text><text x="361" y="464">Family meals</text><text x="603" y="464">Catering menu</text></g>
+  <text x="500" y="544" fill="#7cf03d" font-family="Arial" font-size="12" letter-spacing="3" text-anchor="middle">PROJECT PREVIEW PLACEHOLDER</text>
+</svg>

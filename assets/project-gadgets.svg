@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560">
+  <rect width="1000" height="560" fill="#202630"/>
+  <rect x="56" y="38" width="888" height="484" rx="9" fill="#f3f1ec"/>
+  <rect x="56" y="38" width="888" height="52" rx="9" fill="#fff"/>
+  <text x="84" y="71" fill="#1f242d" font-family="Arial" font-size="19" font-weight="700">tempted<tspan fill="#73cb3e"> gadgets</tspan></text>
+  <text x="671" y="70" fill="#545b63" font-family="Arial" font-size="12">Shop   Collections   About</text><circle cx="904" cy="64" r="14" fill="#eaf4e4"/>
+  <text x="91" y="148" fill="#6d756e" font-family="Arial" font-size="12" letter-spacing="2">TECH THAT FITS YOUR LIFE</text>
+  <text x="91" y="192" fill="#202630" font-family="Arial" font-size="31" font-weight="700">Discover your next</text><text x="91" y="231" fill="#202630" font-family="Arial" font-size="31" font-weight="700">favorite gadget.</text>
+  <rect x="91" y="252" width="130" height="38" rx="4" fill="#7cf03d"/><text x="111" y="276" fill="#1f242d" font-family="Arial" font-size="12" font-weight="700">EXPLORE SHOP</text>
+  <rect x="515" y="111" width="356" height="183" rx="8" fill="#e6ece2"/>
+  <path d="M617 246l61-86 104 86z" fill="#adb9a7"/><rect x="667" y="144" width="112" height="142" rx="17" fill="#333d46" transform="rotate(-9 667 144)"/><rect x="678" y="158" width="88" height="111" rx="11" fill="#91aa95" transform="rotate(-9 678 158)"/><circle cx="725" cy="277" r="4" fill="#7cf03d"/>
+  <text x="91" y="349" fill="#202630" font-family="Arial" font-size="18" font-weight="700">Popular picks</text>
+  <g><rect x="91" y="367" width="247" height="112" rx="6" fill="#fff"/><rect x="354" y="367" width="247" height="112" rx="6" fill="#fff"/><rect x="617" y="367" width="247" height="112" rx="6" fill="#fff"/></g>
+  <g fill="#59615c" font-family="Arial" font-size="12"><text x="112" y="455">Audio essentials</text><text x="375" y="455">Smart accessories</text><text x="638" y="455">Everyday tech</text></g>
+  <g fill="#dbe5d8"><circle cx="215" cy="414" r="25"/><rect x="433" y="387" width="48" height="51" rx="9"/><rect x="694" y="391" width="49" height="42" rx="4"/></g>
+  <text x="500" y="537" fill="#7cf03d" font-family="Arial" font-size="12" letter-spacing="3" text-anchor="middle">PROJECT PREVIEW PLACEHOLDER</text>
+</svg>

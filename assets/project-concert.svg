@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560">
+  <rect width="1000" height="560" fill="#202630"/>
+  <rect x="57" y="36" width="886" height="488" rx="9" fill="#171a24"/>
+  <rect x="57" y="36" width="886" height="54" rx="9" fill="#20232f"/>
+  <text x="89" y="71" fill="#fff" font-family="Arial" font-size="18" font-weight="700">LIVE<span fill="#7cf03d">FORM</span></text>
+  <text x="665" y="70" fill="#b3b5c3" font-family="Arial" font-size="12">Consultation   Events   Contact</text>
+  <rect x="57" y="90" width="886" height="320" fill="#252638"/>
+  <circle cx="727" cy="228" r="135" fill="#353249"/>
+  <path d="M632 322l79-170 94 170z" fill="#795982"/><path d="M729 322l65-136 74 136z" fill="#b17c73"/>
+  <circle cx="729" cy="214" r="28" fill="#7cf03d" fill-opacity=".88"/>
+  <path d="M729 180v68m-34-34h68" stroke="#272536" stroke-width="4"/>
+  <text x="99" y="150" fill="#7cf03d" font-family="Arial" font-size="12" letter-spacing="3">YOUR EVENT, THOUGHTFULLY PLANNED</text>
+  <text x="99" y="201" fill="#fff" font-family="Arial" font-size="36" font-weight="700">Make the moment</text><text x="99" y="244" fill="#fff" font-family="Arial" font-size="36" font-weight="700">a live experience.</text>
+  <text x="101" y="276" fill="#b3b5c3" font-family="Arial" font-size="13">Let’s talk through your concert and event plans.</text>
+  <rect x="99" y="302" width="183" height="42" rx="4" fill="#7cf03d"/><text x="119" y="328" fill="#1f242d" font-family="Arial" font-size="12" font-weight="700">START A CONSULTATION ↗</text>
+  <rect x="99" y="430" width="802" height="59" rx="5" fill="#212431"/>
+  <text x="124" y="455" fill="#fff" font-family="Arial" font-size="14" font-weight="700">Planning an event?</text><text x="124" y="475" fill="#a3a6b1" font-family="Arial" font-size="11">Send an enquiry to begin a conversation.</text>
+  <rect x="737" y="444" width="141" height="32" rx="4" fill="#2f7850"/><text x="760" y="465" fill="#fff" font-family="Arial" font-size="11">WHATSAPP US</text>
+  <text x="500" y="543" fill="#7cf03d" font-family="Arial" font-size="12" letter-spacing="3" text-anchor="middle">PROJECT PREVIEW PLACEHOLDER</text>
+</svg>
