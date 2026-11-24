@@ -255,7 +255,8 @@ h2 { margin-bottom: 14px; font-size: clamp(32px, 4vw, 47px); font-weight: 600; l
   .orbit-two { width: 420px; height: 420px; }
   .scroll-cue { display: none; }
   .about-grid { grid-template-columns: 1fr; gap: 24px; }
-  .about-mark { position: absolute; top: 78px; right: 22px; width: 83px; height: 83px; opacity: .7; }
+  .about-mark { position: absolute; top: 25px; right: 22px; width: 83px; height: 83px; opacity: .7; }
+  .about-section .section-heading h2 { max-width: calc(100% - 105px); }
   .about-mark span { font-size: 57px; }
   .about-index { padding-top: 0; }
   .about-copy p.lead { font-size: 21px; }
@@ -286,7 +287,8 @@ h2 { margin-bottom: 14px; font-size: clamp(32px, 4vw, 47px); font-weight: 600; l
   .visual-caption { right: 0; bottom: 5px; padding: 9px 12px; }
   .orbit-one { width: 310px; height: 310px; }
   .orbit-two { width: 360px; height: 360px; }
-  .about-mark { top: 71px; right: 18px; width: 68px; height: 68px; }
+  .about-mark { top: 25px; right: 18px; width: 68px; height: 68px; }
+  .about-section .section-heading h2 { max-width: calc(100% - 85px); }
   .about-mark span { font-size: 48px; }
   .skills-grid { grid-template-columns: 1fr; }
   .skill-card { min-height: 0; padding: 22px; }
